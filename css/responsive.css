@@ -1,0 +1,14 @@
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+	
+	.why-text p{
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+	.inner-column{
+		margin-bottom: 30px;
+	}
+	.inner-menu-box .nav-pills .nav-link{
+		font-size: 12px;
+		padding: 5px;
+	}
+}

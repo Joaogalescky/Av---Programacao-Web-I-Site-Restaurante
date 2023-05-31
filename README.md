@@ -1,7 +1,7 @@
 # Programação Web I Avaliação - 1°TADS | 2023
 
 ## Prova avaliativa 31/05/2023
-  Programar e desenvolver um site de restaurante conforme as características e especificações requisitadas pelo professor em sala de aula.
+  Programar e desenvolver um site de restaurante conforme o vídeo apresentando no Google Classroom.
 
 ## IFPR
 
